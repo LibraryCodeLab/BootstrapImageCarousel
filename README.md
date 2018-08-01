@@ -4,7 +4,8 @@
 
 2. Find the line of code that looks like this:
 
- <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+ <b><script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script><b>
+ <br>
 
 Copy and paste that link into your browser to see all the code that is being referenced (it's a lot).
 
