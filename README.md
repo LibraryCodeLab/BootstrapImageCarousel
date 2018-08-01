@@ -4,7 +4,7 @@
 
 2. Find the line of code that looks like this:
 
- <blockquote><script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script></blockquote>
+ <blockquote><script src ="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script></blockquote>
 
 Copy and paste that link into your browser to see all the code that is being referenced (it's a lot).
 
