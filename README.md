@@ -26,7 +26,7 @@ In this exercise, we will take a website without any CSS or special formatting, 
 
 7. Use the <a href="https://getbootstrap.com/docs/4.0/components/navbar/">Bootstrap Navbar</a> to spruce up your menu navigation.
 
-8. Use the grid system to change your neighborhood.html file and make three columns--one for each neighborhood.
+8. Use the grid system to change your <a href="https://github.com/LibraryCodeLab/BootstrapWebsite/blob/master/neighborhoods.html">neighborhood.html</a> file and make three columns--one for each neighborhood.
 
 9. Use the grid system to arrange your pictures on the <a href="https://github.com/LibraryCodeLab/BootstrapWebsite/blob/master/govt.html">govt.html</a> page to have 2 rows of 6.
  
