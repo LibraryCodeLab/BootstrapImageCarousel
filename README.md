@@ -24,7 +24,7 @@ In this exercise, we will take a website without any CSS or special formatting, 
 
 6. Next, use the <a href="https://getbootstrap.com/docs/4.0/layout/grid/">Bootstrap Grid System</a> to rearrange your content and make it appear more similar to the website this practice is based on: <a href="www.welcomeclt.org">WelcomeCLT.org</a>.
 
-7. Use the <a href="https://getbootstrap.com/docs/4.0/components/navbar/">Bootstrao Navbar</a> to spruce up your menu navigation.
+7. Use the <a href="https://getbootstrap.com/docs/4.0/components/navbar/">Bootstrap Navbar</a> to spruce up your menu navigation.
 
 8. Use the grid system to change your neighborhood.html file and make three columns--one for each neighborhood.
 
