@@ -15,6 +15,7 @@ In this exercise, we will take a website without any CSS or special formatting, 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script> </blockquote>
 
+
 4. Save your index.html doc and refresh it in the browser. Notice what has changed, just be inserting the Bootstrap code. Insert the same code in your govt.html file and your neighborhoods.html file.
 
 *Before you get started, review <a href="https://www.w3schools.com/cssref/sel_class.asp">CSS Classes</a>, and <a href="https://www.w3schools.com/tags/tag_div.asp">HTML divs</a>, as these tools will help you connect your Bootstrap formatting.
