@@ -1,17 +1,10 @@
-# Bootstrap Image Carousel
+# Bootstrap Website
 
-1. In your HTML file, look for things you recognize. There is a lot of probably unfamiliar things in your file, but start by finding the things you do recognize. Find at least 5 things you understand.
+In this exercise, we will take a website without any CSS or special formatting, and use Bootstrap to format and structure each page.
 
-2. Find the line of code that looks like this:
+1. Download the files to your computer. There are three HTML files for you to work with, and a folder that includes the same files, but includes Bootstrap formatting. You can use these files if you get stuck.
+2. Open the index.html file in your text editor (such as <a href="www.sublimetext.com">Sublime Text</a>) and open it in the browser as well. As we make changes, we will save our html file in our text editor and refresh it in the browser.
+3. First, we need to add in the Bootstrap code. Go to <a href="www.bootstrap.com">Bootstrap.com</a> and copy the code that will go in between the <head> tags of your html doc.
+ 
+ MORE COMING SOON
 
- <blockquote><script src ="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script></blockquote>
-
-Copy and paste that link into your browser to see all the code that is being referenced (it's a lot).
-
-3. In your browser, notice how the file is rendering. Why are your images not showing up?
-
-4. Find 4 images (on the web) and download them.  Make sure the files download into the same folder as your HTML file. Once you've downloaded them, change your HTML code to link to your new image files. Refresh your browser to check your work.
-
-5. Change the headers and paragraphs to accurately reflect your new images. Refresh your browser to check your work.
-
-6. Open up the carousel.js file in your text editor. This is a downloaded file from getbootstrap.com specifically related to the image carousel you just created. Notice all the code that is ready-made for you, and how much JavaScript you can use without needing to write the code yourself.
