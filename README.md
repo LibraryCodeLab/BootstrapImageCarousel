@@ -16,7 +16,7 @@ In this exercise, we will take a website without any CSS or special formatting, 
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script> </blockquote>
 
 
-4. Save your <a href="https://github.com/LibraryCodeLab/BootstrapWebsite/blob/master/index.html">index.html</a> doc and refresh it in the browser. Notice what has changed, just be inserting the Bootstrap code. Insert the same code in your govt.html file and your neighborhoods.html file.
+4. Save your <a href="https://github.com/LibraryCodeLab/BootstrapWebsite/blob/master/index.html">index.html</a> doc and refresh it in the browser. Notice what has changed, just be inserting the Bootstrap code. Insert the same code in your <a href="https://github.com/LibraryCodeLab/BootstrapWebsite/blob/master/govt.html">govt.html</a> file and your neighborhoods.html file.
 
 *Before you get started, review <a href="https://www.w3schools.com/cssref/sel_class.asp">CSS Classes</a>, and <a href="https://www.w3schools.com/tags/tag_div.asp">HTML divs</a>, as these tools will help you connect your Bootstrap formatting.
 
@@ -28,7 +28,7 @@ In this exercise, we will take a website without any CSS or special formatting, 
 
 8. Use the grid system to change your neighborhood.html file and make three columns--one for each neighborhood.
 
-9. Use the grid system to arrange your pictures on the govt.html page to have 2 rows of 6.
+9. Use the grid system to arrange your pictures on the <a href="https://github.com/LibraryCodeLab/BootstrapWebsite/blob/master/govt.html">govt.html</a> page to have 2 rows of 6.
  
 10. Using <a href="https://getbootstrap.com/docs/4.0/components/alerts/">Bootstrap.com</a> as a reference, make other cosmetic changes to your site. For example, <a href="https://getbootstrap.com/docs/4.0/components/buttons/">buttons</a>, and the <a href="https://getbootstrap.com/docs/4.0/components/jumbotron/">jumbotron</a> class.
 
