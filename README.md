@@ -16,7 +16,7 @@ In this exercise, we will take a website without any CSS or special formatting, 
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script> </blockquote>
 
 
-4. Save your <a href="https://github.com/LibraryCodeLab/BootstrapWebsite/blob/master/index.html">index.html</a> doc and refresh it in the browser. Notice what has changed, just be inserting the Bootstrap code. Insert the same code in your <a href="https://github.com/LibraryCodeLab/BootstrapWebsite/blob/master/govt.html">govt.html</a> file and your neighborhoods.html file.
+4. Save your <a href="https://github.com/LibraryCodeLab/BootstrapWebsite/blob/master/index.html">index.html</a> doc and refresh it in the browser. Notice what has changed, just be inserting the Bootstrap code. Insert the same code in your <a href="https://github.com/LibraryCodeLab/BootstrapWebsite/blob/master/govt.html">govt.html</a> file and your <a href="https://github.com/LibraryCodeLab/BootstrapWebsite/blob/master/neighborhoods.html">neighborhoods.html</a> file.
 
 *Before you get started, review <a href="https://www.w3schools.com/cssref/sel_class.asp">CSS Classes</a>, and <a href="https://www.w3schools.com/tags/tag_div.asp">HTML divs</a>, as these tools will help you connect your Bootstrap formatting.
 
