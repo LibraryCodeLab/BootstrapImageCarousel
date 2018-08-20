@@ -8,7 +8,7 @@ In this exercise, we will take a website without any CSS or special formatting, 
 
 3. First, we need to add in the Bootstrap code. Go to <a href="https://getbootstrap.com/">Bootstrap.com</a> and copy the code that will go in between the <b>head</b> tags of your html doc.
  
- *You can also copy it here:
+ *You can also copy it here: (click on "raw" to see all the code you need)
  <blockquote>
 <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
 <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
